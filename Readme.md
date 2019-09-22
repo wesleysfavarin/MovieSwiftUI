@@ -21,3 +21,4 @@ It'll evolve with SwiftUI, every time Apple edits existing or adds new features 
 ## Platforms
 
 Currently MovieDBSwiftUI runs on iPhone, iPad, and macOS. 
+000
